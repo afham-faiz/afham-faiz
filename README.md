@@ -2,7 +2,7 @@
 
 ## Temporary readme:
 
-My name is Afham, I am a Maldivian student studying at the University of Manchester. I made this github to document my progress in the field of computer science as I do more personal projects and self studying. readme will look better soon!
+
 
 <!--
 **afham-faiz/afham-faiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
